@@ -1,0 +1,288 @@
+2022-05-08 08-24-46 : [[ INFO ]] >>>> Base URL is https://reqres.in 
+2022-05-08 08-24-47 : [[ INFO ]] >>>> API Path is /api/users?page=2 
+2022-05-08 08-24-47 : [[ INFO ]] >>>> Sending GET API Request >>>> https://reqres.in/api/users?page=2 
+2022-05-08 08-24-48 : [[ INFO ]] >>>> Getting response 
+2022-05-08 08-24-48 : [[ INFO ]] >>>> Status Code: 200 
+2022-05-08 08-24-48 : [[ INFO ]] >>>> Printing API Response:  
+2022-05-08 08-24-48 : [[ INFO ]] >>>> {
+    "page": 2,
+    "per_page": 6,
+    "total": 12,
+    "total_pages": 2,
+    "data": [
+        {
+            "id": 7,
+            "email": "michael.lawson@reqres.in",
+            "first_name": "Michael",
+            "last_name": "Lawson",
+            "avatar": "https://reqres.in/img/faces/7-image.jpg"
+        },
+        {
+            "id": 8,
+            "email": "lindsay.ferguson@reqres.in",
+            "first_name": "Lindsay",
+            "last_name": "Ferguson",
+            "avatar": "https://reqres.in/img/faces/8-image.jpg"
+        },
+        {
+            "id": 9,
+            "email": "tobias.funke@reqres.in",
+            "first_name": "Tobias",
+            "last_name": "Funke",
+            "avatar": "https://reqres.in/img/faces/9-image.jpg"
+        },
+        {
+            "id": 10,
+            "email": "byron.fields@reqres.in",
+            "first_name": "Byron",
+            "last_name": "Fields",
+            "avatar": "https://reqres.in/img/faces/10-image.jpg"
+        },
+        {
+            "id": 11,
+            "email": "george.edwards@reqres.in",
+            "first_name": "George",
+            "last_name": "Edwards",
+            "avatar": "https://reqres.in/img/faces/11-image.jpg"
+        },
+        {
+            "id": 12,
+            "email": "rachel.howell@reqres.in",
+            "first_name": "Rachel",
+            "last_name": "Howell",
+            "avatar": "https://reqres.in/img/faces/12-image.jpg"
+        }
+    ],
+    "support": {
+        "url": "https://reqres.in/#support-heading",
+        "text": "To keep ReqRes free, contributions towards server costs are appreciated!"
+    }
+} 
+2022-05-08 08-24-48 : [[ INFO ]] >>>> Base URL is https://reqres.in 
+2022-05-08 08-24-48 : [[ INFO ]] >>>> API Path is /api/users?page=2 
+2022-05-08 08-24-48 : [[ INFO ]] >>>> Sending POST API Request >>>> https://reqres.in/api/users?page=2 
+2022-05-08 08-24-48 : [[ INFO ]] >>>> Getting response 
+2022-05-08 08-24-48 : [[ INFO ]] >>>> Status Code: 201 
+2022-05-08 08-24-48 : [[ INFO ]] >>>> Printing API Response:  
+2022-05-08 08-24-48 : [[ INFO ]] >>>> {
+    "name": "Ollie",
+    "job": "Developer",
+    "id": "876",
+    "createdAt": "2022-05-08T08:24:48.464Z"
+} 
+2022-05-08 08-24-48 : [[ INFO ]] >>>> Base URL is https://reqres.in 
+2022-05-08 08-24-48 : [[ INFO ]] >>>> API Path is /api/users?page=2 
+2022-05-08 08-24-48 : [[ INFO ]] >>>> Sending POST API Request >>>> https://reqres.in/api/users?page=2 
+2022-05-08 08-24-48 : [[ INFO ]] >>>> Getting response 
+2022-05-08 08-24-48 : [[ INFO ]] >>>> Status Code: 201 
+2022-05-08 08-24-48 : [[ INFO ]] >>>> Printing API Response:  
+2022-05-08 08-24-48 : [[ INFO ]] >>>> {
+    "name": "Andrew",
+    "job": "Analyst",
+    "id": "620",
+    "createdAt": "2022-05-08T08:24:48.717Z"
+} 
+2022-05-08 08-24-48 : [[ INFO ]] >>>> Base URL is https://reqres.in 
+2022-05-08 08-24-48 : [[ INFO ]] >>>> API Path is /api/users?page=2 
+2022-05-08 08-24-48 : [[ INFO ]] >>>> Sending POST API Request >>>> https://reqres.in/api/users?page=2 
+2022-05-08 08-24-49 : [[ INFO ]] >>>> Getting response 
+2022-05-08 08-24-49 : [[ INFO ]] >>>> Status Code: 201 
+2022-05-08 08-24-49 : [[ INFO ]] >>>> Printing API Response:  
+2022-05-08 08-24-49 : [[ INFO ]] >>>> {
+    "name": "Tonks",
+    "job": "Technical Architect",
+    "id": "819",
+    "createdAt": "2022-05-08T08:24:48.959Z"
+} 
+2022-05-08 08-43-50 : [[ INFO ]] >>>> Base URL is https://reqres.in 
+2022-05-08 08-43-50 : [[ INFO ]] >>>> API Path is /api/users?page=2 
+2022-05-08 08-43-50 : [[ INFO ]] >>>> Sending GET API Request >>>> https://reqres.in/api/users?page=2 
+2022-05-08 08-43-51 : [[ INFO ]] >>>> Getting response 
+2022-05-08 08-43-51 : [[ INFO ]] >>>> Status Code: 200 
+2022-05-08 08-43-51 : [[ INFO ]] >>>> Printing API Response:  
+2022-05-08 08-43-51 : [[ INFO ]] >>>> {
+    "page": 2,
+    "per_page": 6,
+    "total": 12,
+    "total_pages": 2,
+    "data": [
+        {
+            "id": 7,
+            "email": "michael.lawson@reqres.in",
+            "first_name": "Michael",
+            "last_name": "Lawson",
+            "avatar": "https://reqres.in/img/faces/7-image.jpg"
+        },
+        {
+            "id": 8,
+            "email": "lindsay.ferguson@reqres.in",
+            "first_name": "Lindsay",
+            "last_name": "Ferguson",
+            "avatar": "https://reqres.in/img/faces/8-image.jpg"
+        },
+        {
+            "id": 9,
+            "email": "tobias.funke@reqres.in",
+            "first_name": "Tobias",
+            "last_name": "Funke",
+            "avatar": "https://reqres.in/img/faces/9-image.jpg"
+        },
+        {
+            "id": 10,
+            "email": "byron.fields@reqres.in",
+            "first_name": "Byron",
+            "last_name": "Fields",
+            "avatar": "https://reqres.in/img/faces/10-image.jpg"
+        },
+        {
+            "id": 11,
+            "email": "george.edwards@reqres.in",
+            "first_name": "George",
+            "last_name": "Edwards",
+            "avatar": "https://reqres.in/img/faces/11-image.jpg"
+        },
+        {
+            "id": 12,
+            "email": "rachel.howell@reqres.in",
+            "first_name": "Rachel",
+            "last_name": "Howell",
+            "avatar": "https://reqres.in/img/faces/12-image.jpg"
+        }
+    ],
+    "support": {
+        "url": "https://reqres.in/#support-heading",
+        "text": "To keep ReqRes free, contributions towards server costs are appreciated!"
+    }
+} 
+2022-05-08 08-43-51 : [[ INFO ]] >>>> Base URL is https://reqres.in 
+2022-05-08 08-43-51 : [[ INFO ]] >>>> API Path is /api/users?page=2 
+2022-05-08 08-43-51 : [[ INFO ]] >>>> Sending POST API Request >>>> https://reqres.in/api/users?page=2 
+2022-05-08 08-43-51 : [[ INFO ]] >>>> Getting response 
+2022-05-08 08-43-51 : [[ INFO ]] >>>> Status Code: 201 
+2022-05-08 08-43-51 : [[ INFO ]] >>>> Printing API Response:  
+2022-05-08 08-43-51 : [[ INFO ]] >>>> {
+    "name": "Ollie",
+    "job": "Developer",
+    "id": "928",
+    "createdAt": "2022-05-08T08:43:51.688Z"
+} 
+2022-05-08 08-43-51 : [[ INFO ]] >>>> Base URL is https://reqres.in 
+2022-05-08 08-43-51 : [[ INFO ]] >>>> API Path is /api/users?page=2 
+2022-05-08 08-43-51 : [[ INFO ]] >>>> Sending POST API Request >>>> https://reqres.in/api/users?page=2 
+2022-05-08 08-43-51 : [[ INFO ]] >>>> Getting response 
+2022-05-08 08-43-51 : [[ INFO ]] >>>> Status Code: 201 
+2022-05-08 08-43-51 : [[ INFO ]] >>>> Printing API Response:  
+2022-05-08 08-43-51 : [[ INFO ]] >>>> {
+    "name": "Andrew",
+    "job": "Analyst",
+    "id": "932",
+    "createdAt": "2022-05-08T08:43:51.934Z"
+} 
+2022-05-08 08-43-51 : [[ INFO ]] >>>> Base URL is https://reqres.in 
+2022-05-08 08-43-51 : [[ INFO ]] >>>> API Path is /api/users?page=2 
+2022-05-08 08-43-51 : [[ INFO ]] >>>> Sending POST API Request >>>> https://reqres.in/api/users?page=2 
+2022-05-08 08-43-52 : [[ INFO ]] >>>> Getting response 
+2022-05-08 08-43-52 : [[ INFO ]] >>>> Status Code: 201 
+2022-05-08 08-43-52 : [[ INFO ]] >>>> Printing API Response:  
+2022-05-08 08-43-52 : [[ INFO ]] >>>> {
+    "name": "Tonks",
+    "job": "Technical Architect",
+    "id": "81",
+    "createdAt": "2022-05-08T08:43:52.188Z"
+} 
+2022-05-08 08-44-28 : [[ INFO ]] >>>> Base URL is https://reqres.in 
+2022-05-08 08-44-28 : [[ INFO ]] >>>> API Path is /api/users?page=2 
+2022-05-08 08-44-28 : [[ INFO ]] >>>> Sending GET API Request >>>> https://reqres.in/api/users?page=2 
+2022-05-08 08-44-29 : [[ INFO ]] >>>> Getting response 
+2022-05-08 08-44-29 : [[ INFO ]] >>>> Status Code: 200 
+2022-05-08 08-44-29 : [[ INFO ]] >>>> Printing API Response:  
+2022-05-08 08-44-29 : [[ INFO ]] >>>> {
+    "page": 2,
+    "per_page": 6,
+    "total": 12,
+    "total_pages": 2,
+    "data": [
+        {
+            "id": 7,
+            "email": "michael.lawson@reqres.in",
+            "first_name": "Michael",
+            "last_name": "Lawson",
+            "avatar": "https://reqres.in/img/faces/7-image.jpg"
+        },
+        {
+            "id": 8,
+            "email": "lindsay.ferguson@reqres.in",
+            "first_name": "Lindsay",
+            "last_name": "Ferguson",
+            "avatar": "https://reqres.in/img/faces/8-image.jpg"
+        },
+        {
+            "id": 9,
+            "email": "tobias.funke@reqres.in",
+            "first_name": "Tobias",
+            "last_name": "Funke",
+            "avatar": "https://reqres.in/img/faces/9-image.jpg"
+        },
+        {
+            "id": 10,
+            "email": "byron.fields@reqres.in",
+            "first_name": "Byron",
+            "last_name": "Fields",
+            "avatar": "https://reqres.in/img/faces/10-image.jpg"
+        },
+        {
+            "id": 11,
+            "email": "george.edwards@reqres.in",
+            "first_name": "George",
+            "last_name": "Edwards",
+            "avatar": "https://reqres.in/img/faces/11-image.jpg"
+        },
+        {
+            "id": 12,
+            "email": "rachel.howell@reqres.in",
+            "first_name": "Rachel",
+            "last_name": "Howell",
+            "avatar": "https://reqres.in/img/faces/12-image.jpg"
+        }
+    ],
+    "support": {
+        "url": "https://reqres.in/#support-heading",
+        "text": "To keep ReqRes free, contributions towards server costs are appreciated!"
+    }
+} 
+2022-05-08 08-44-29 : [[ INFO ]] >>>> Base URL is https://reqres.in 
+2022-05-08 08-44-29 : [[ INFO ]] >>>> API Path is /api/users?page=2 
+2022-05-08 08-44-29 : [[ INFO ]] >>>> Sending POST API Request >>>> https://reqres.in/api/users?page=2 
+2022-05-08 08-44-30 : [[ INFO ]] >>>> Getting response 
+2022-05-08 08-44-30 : [[ INFO ]] >>>> Status Code: 201 
+2022-05-08 08-44-30 : [[ INFO ]] >>>> Printing API Response:  
+2022-05-08 08-44-30 : [[ INFO ]] >>>> {
+    "name": "Ollie",
+    "job": "Developer",
+    "id": "217",
+    "createdAt": "2022-05-08T08:44:30.102Z"
+} 
+2022-05-08 08-44-30 : [[ INFO ]] >>>> Base URL is https://reqres.in 
+2022-05-08 08-44-30 : [[ INFO ]] >>>> API Path is /api/users?page=2 
+2022-05-08 08-44-30 : [[ INFO ]] >>>> Sending POST API Request >>>> https://reqres.in/api/users?page=2 
+2022-05-08 08-44-30 : [[ INFO ]] >>>> Getting response 
+2022-05-08 08-44-30 : [[ INFO ]] >>>> Status Code: 201 
+2022-05-08 08-44-30 : [[ INFO ]] >>>> Printing API Response:  
+2022-05-08 08-44-30 : [[ INFO ]] >>>> {
+    "name": "Andrew",
+    "job": "Analyst",
+    "id": "666",
+    "createdAt": "2022-05-08T08:44:30.362Z"
+} 
+2022-05-08 08-44-30 : [[ INFO ]] >>>> Base URL is https://reqres.in 
+2022-05-08 08-44-30 : [[ INFO ]] >>>> API Path is /api/users?page=2 
+2022-05-08 08-44-30 : [[ INFO ]] >>>> Sending POST API Request >>>> https://reqres.in/api/users?page=2 
+2022-05-08 08-44-30 : [[ INFO ]] >>>> Getting response 
+2022-05-08 08-44-30 : [[ INFO ]] >>>> Status Code: 201 
+2022-05-08 08-44-30 : [[ INFO ]] >>>> Printing API Response:  
+2022-05-08 08-44-30 : [[ INFO ]] >>>> {
+    "name": "Tonks",
+    "job": "Technical Architect",
+    "id": "173",
+    "createdAt": "2022-05-08T08:44:30.648Z"
+} 
